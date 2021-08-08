@@ -1,0 +1,1221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
+  <generation-date>2021-08-05T07:44:02+03:00</generation-date>
+  <offer internal-id="109805">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <deal-status>первичная продажа</deal-status>
+    <creation-date>2021-08-05T07:44:02+03:00</creation-date>
+    <last-update-date>2021-08-05T07:44:02+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <region>Москва</region>
+      <district>Головинский  район</district>
+      <address>Ленинградское шоссе, 58</address>
+      <latitude>55.843358</latitude>
+      <longitude>37.48189</longitude>
+      <metro>
+        <name>Водный стадион</name>
+      </metro>
+      <metro>
+        <name>Речной вокзал</name>
+      </metro>
+    </location>
+    <sales-agent>
+      <organization>Группа ЛСР</organization>
+      <phone>+7 (495) 228-22-88</phone>
+      <category>застройщик</category>
+    </sales-agent>
+    <price>
+      <value>21297600</value>
+      <currency>RUB</currency>
+    </price>
+    <mortgage>да</mortgage>
+    <area>
+      <value>69.60</value>
+      <unit>кв. м</unit>
+    </area>
+    <living-space>
+      <value>33.20</value>
+      <unit>кв. м</unit>
+    </living-space>
+    <kitchen-space>
+      <value>22.50</value>
+      <unit>кв. м</unit>
+    </kitchen-space>
+    <rooms>2</rooms>
+    <new-flat>1</new-flat>
+    <floor>2</floor>
+    <floors-total>29</floors-total>
+    <building-name>ЛЕНИНГРАDКА 58</building-name>
+    <built-year>2021</built-year>
+    <building-state>unfinished</building-state>
+    <ready-quarter>3</ready-quarter>
+    <building-section>2</building-section>
+    <description>В продаже 2-комнатная евро квартира  в новом доме жилого комплекса "ЛЕНИНГРАDКА 58". Квартира в корпусе "Ленинградское шоссе" на 2 этаже, общая площадь двухкомнатной квартиры 69.6 м.кв., кухня 22.5 м.кв. Жилой комплекс "ЛЕНИНГРАDКА 58" располагается по адресу Ленинградское шоссе, 58 (Головинский  район г. Москва), рядом станция метро Водный стадион. Срок сдачи новостройки - 2021. . Стоимость квартиры - 21 297 600 рублей. Для вашего удобства предусмотрено онлайн бронирование на сайте Застройщика. Легко. Быстро. Бесплатно.</description>
+    <yandex-building-id>1570842</yandex-building-id>
+    <yandex-house-id>1570893</yandex-house-id>
+    <building-type>монолит</building-type>
+  </offer>
+  <offer internal-id="109807">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <deal-status>первичная продажа</deal-status>
+    <creation-date>2021-08-05T07:44:02+03:00</creation-date>
+    <last-update-date>2021-08-05T07:44:02+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <region>Москва</region>
+      <district>Головинский  район</district>
+      <address>Ленинградское шоссе, 58</address>
+      <latitude>55.843358</latitude>
+      <longitude>37.48189</longitude>
+      <metro>
+        <name>Водный стадион</name>
+      </metro>
+      <metro>
+        <name>Речной вокзал</name>
+      </metro>
+    </location>
+    <sales-agent>
+      <organization>Группа ЛСР</organization>
+      <phone>+7 (495) 228-22-88</phone>
+
+      <category>застройщик</category>
+    </sales-agent>
+    <price>
+      <value>23290680</value>
+      <currency>RUB</currency>
+    </price>
+    <mortgage>да</mortgage>
+    <area>
+      <value>83.30</value>
+      <unit>кв. м</unit>
+    </area>
+    <living-space>
+      <value>50.40</value>
+      <unit>кв. м</unit>
+    </living-space>
+    <kitchen-space>
+      <value>12.90</value>
+      <unit>кв. м</unit>
+    </kitchen-space>
+    <rooms>3</rooms>
+    <new-flat>1</new-flat>
+    <floor>2</floor>
+    <floors-total>29</floors-total>
+    <building-name>ЛЕНИНГРАDКА 58</building-name>
+    <built-year>2021</built-year>
+    <building-state>unfinished</building-state>
+    <ready-quarter>3</ready-quarter>
+    <building-section>2</building-section>
+    <description>В продаже 3-комнатная квартира  в новом доме жилого комплекса "ЛЕНИНГРАDКА 58". Квартира в корпусе "Ленинградское шоссе" на 2 этаже, общая площадь трехкомнатной квартиры 83.3 м.кв., кухня 12.9 м.кв. Жилой комплекс "ЛЕНИНГРАDКА 58" располагается по адресу Ленинградское шоссе, 58 (Головинский  район г. Москва), рядом станция метро Водный стадион. Срок сдачи новостройки - 2021. . Стоимость квартиры - 23 290 680 рублей. Для вашего удобства предусмотрено онлайн бронирование на сайте Застройщика. Легко. Быстро. Бесплатно.</description>
+    <yandex-building-id>1570842</yandex-building-id>
+    <yandex-house-id>1570893</yandex-house-id>
+    <building-type>монолит</building-type>
+  </offer>
+  <offer internal-id="109808">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <deal-status>первичная продажа</deal-status>
+    <creation-date>2021-08-05T07:44:02+03:00</creation-date>
+    <last-update-date>2021-08-05T07:44:02+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <region>Москва</region>
+      <district>Головинский  район</district>
+      <address>Ленинградское шоссе, 58</address>
+      <latitude>55.843358</latitude>
+      <longitude>37.48189</longitude>
+      <metro>
+        <name>Водный стадион</name>
+      </metro>
+      <metro>
+        <name>Речной вокзал</name>
+      </metro>
+    </location>
+    <sales-agent>
+      <organization>Группа ЛСР</organization>
+      <phone>+7 (495) 228-22-88</phone>
+
+      <category>застройщик</category>
+    </sales-agent>
+    <price>
+      <value>23682190</value>
+      <currency>RUB</currency>
+    </price>
+    <mortgage>да</mortgage>
+    <area>
+      <value>83.30</value>
+      <unit>кв. м</unit>
+    </area>
+    <living-space>
+      <value>50.70</value>
+      <unit>кв. м</unit>
+    </living-space>
+    <kitchen-space>
+      <value>12.90</value>
+      <unit>кв. м</unit>
+    </kitchen-space>
+    <rooms>3</rooms>
+    <new-flat>1</new-flat>
+    <floor>2</floor>
+    <floors-total>29</floors-total>
+    <building-name>ЛЕНИНГРАDКА 58</building-name>
+    <built-year>2021</built-year>
+    <building-state>unfinished</building-state>
+    <ready-quarter>3</ready-quarter>
+    <building-section>2</building-section>
+    <description>В продаже 3-комнатная квартира  в новом доме жилого комплекса "ЛЕНИНГРАDКА 58". Квартира в корпусе "Ленинградское шоссе" на 2 этаже, общая площадь трехкомнатной квартиры 83.3 м.кв., кухня 12.9 м.кв. Жилой комплекс "ЛЕНИНГРАDКА 58" располагается по адресу Ленинградское шоссе, 58 (Головинский  район г. Москва), рядом станция метро Водный стадион. Срок сдачи новостройки - 2021. . Стоимость квартиры - 23 682 190 рублей. Для вашего удобства предусмотрено онлайн бронирование на сайте Застройщика. Легко. Быстро. Бесплатно.</description>
+    <yandex-building-id>1570842</yandex-building-id>
+    <yandex-house-id>1570893</yandex-house-id>
+    <building-type>монолит</building-type>
+  </offer>
+  <offer internal-id="109815">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <deal-status>первичная продажа</deal-status>
+    <creation-date>2021-08-05T07:44:02+03:00</creation-date>
+    <last-update-date>2021-08-05T07:44:02+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <region>Москва</region>
+      <district>Головинский  район</district>
+      <address>Ленинградское шоссе, 58</address>
+      <latitude>55.843358</latitude>
+      <longitude>37.48189</longitude>
+      <metro>
+        <name>Водный стадион</name>
+      </metro>
+      <metro>
+        <name>Речной вокзал</name>
+      </metro>
+    </location>
+    <sales-agent>
+      <organization>Группа ЛСР</organization>
+      <phone>+7 (495) 228-22-88</phone>
+
+      <category>застройщик</category>
+    </sales-agent>
+    <price>
+      <value>22107990</value>
+      <currency>RUB</currency>
+    </price>
+    <mortgage>да</mortgage>
+    <area>
+      <value>64.70</value>
+      <unit>кв. м</unit>
+    </area>
+    <living-space>
+      <value>26.10</value>
+      <unit>кв. м</unit>
+    </living-space>
+    <kitchen-space>
+      <value>24.00</value>
+      <unit>кв. м</unit>
+    </kitchen-space>
+    <rooms>2</rooms>
+    <new-flat>1</new-flat>
+    <floor>2</floor>
+    <floors-total>29</floors-total>
+    <building-name>ЛЕНИНГРАDКА 58</building-name>
+    <built-year>2021</built-year>
+    <building-state>unfinished</building-state>
+    <ready-quarter>3</ready-quarter>
+    <building-section>2</building-section>
+    <description>В продаже 2-комнатная евро квартира с отделкой в новом доме жилого комплекса "ЛЕНИНГРАDКА 58". Квартира в корпусе "Ленинградское шоссе" на 2 этаже, общая площадь двухкомнатной квартиры 64.7 м.кв., кухня 24 м.кв. Жилой комплекс "ЛЕНИНГРАDКА 58" располагается по адресу Ленинградское шоссе, 58 (Головинский  район г. Москва), рядом станция метро Водный стадион. Срок сдачи новостройки - 2021. . Стоимость квартиры - 22 107 990 рублей. Для вашего удобства предусмотрено онлайн бронирование на сайте Застройщика. Легко. Быстро. Бесплатно.</description>
+    <yandex-building-id>1570842</yandex-building-id>
+    <yandex-house-id>1570893</yandex-house-id>
+    <building-type>монолит</building-type>
+  </offer>
+  <offer internal-id="110336">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <deal-status>первичная продажа</deal-status>
+    <creation-date>2021-08-05T07:44:02+03:00</creation-date>
+    <last-update-date>2021-08-05T07:44:02+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <region>Москва</region>
+      <district>Головинский  район</district>
+      <address>Ленинградское шоссе, 58</address>
+      <latitude>55.843358</latitude>
+      <longitude>37.48189</longitude>
+      <metro>
+        <name>Водный стадион</name>
+      </metro>
+      <metro>
+        <name>Речной вокзал</name>
+      </metro>
+    </location>
+    <sales-agent>
+      <organization>Группа ЛСР</organization>
+      <phone>+7 (495) 228-22-88</phone>
+
+      <category>застройщик</category>
+    </sales-agent>
+    <price>
+      <value>26061480</value>
+      <currency>RUB</currency>
+    </price>
+    <mortgage>да</mortgage>
+    <area>
+      <value>81.80</value>
+      <unit>кв. м</unit>
+    </area>
+    <living-space>
+      <value>50.70</value>
+      <unit>кв. м</unit>
+    </living-space>
+    <kitchen-space>
+      <value>12.30</value>
+      <unit>кв. м</unit>
+    </kitchen-space>
+    <rooms>3</rooms>
+    <new-flat>1</new-flat>
+    <floor>14</floor>
+    <floors-total>29</floors-total>
+    <building-name>ЛЕНИНГРАDКА 58</building-name>
+    <built-year>2021</built-year>
+    <building-state>unfinished</building-state>
+    <ready-quarter>3</ready-quarter>
+    <building-section>2</building-section>
+    <description>В продаже 3-комнатная квартира  в новом доме жилого комплекса "ЛЕНИНГРАDКА 58". Квартира в корпусе "Ленинградское шоссе" на 14 этаже, общая площадь трехкомнатной квартиры 81.8 м.кв., кухня 12.3 м.кв. Жилой комплекс "ЛЕНИНГРАDКА 58" располагается по адресу Ленинградское шоссе, 58 (Головинский  район г. Москва), рядом станция метро Водный стадион. Срок сдачи новостройки - 2021. . Стоимость квартиры - 26 061 480 рублей. Для вашего удобства предусмотрено онлайн бронирование на сайте Застройщика. Легко. Быстро. Бесплатно.</description>
+    <yandex-building-id>1570842</yandex-building-id>
+    <yandex-house-id>1570893</yandex-house-id>
+    <building-type>монолит</building-type>
+  </offer>
+  <offer internal-id="110337">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <deal-status>первичная продажа</deal-status>
+    <creation-date>2021-08-05T07:44:02+03:00</creation-date>
+    <last-update-date>2021-08-05T07:44:02+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <region>Москва</region>
+      <district>Головинский  район</district>
+      <address>Ленинградское шоссе, 58</address>
+      <latitude>55.843358</latitude>
+      <longitude>37.48189</longitude>
+      <metro>
+        <name>Водный стадион</name>
+      </metro>
+      <metro>
+        <name>Речной вокзал</name>
+      </metro>
+    </location>
+    <sales-agent>
+      <organization>Группа ЛСР</organization>
+      <phone>+7 (495) 228-22-88</phone>
+
+      <category>застройщик</category>
+    </sales-agent>
+    <price>
+      <value>26881600</value>
+      <currency>RUB</currency>
+    </price>
+    <mortgage>да</mortgage>
+    <area>
+      <value>84.80</value>
+      <unit>кв. м</unit>
+    </area>
+    <living-space>
+      <value>45.30</value>
+      <unit>кв. м</unit>
+    </living-space>
+    <kitchen-space>
+      <value>24.40</value>
+      <unit>кв. м</unit>
+    </kitchen-space>
+    <rooms>3</rooms>
+    <new-flat>1</new-flat>
+    <floor>14</floor>
+    <floors-total>29</floors-total>
+    <building-name>ЛЕНИНГРАDКА 58</building-name>
+    <built-year>2021</built-year>
+    <building-state>unfinished</building-state>
+    <ready-quarter>3</ready-quarter>
+    <building-section>2</building-section>
+    <description>В продаже 3-комнатная евро квартира  в новом доме жилого комплекса "ЛЕНИНГРАDКА 58". Квартира в корпусе "Ленинградское шоссе" на 14 этаже, общая площадь трехкомнатной квартиры 84.8 м.кв., кухня 24.4 м.кв. Жилой комплекс "ЛЕНИНГРАDКА 58" располагается по адресу Ленинградское шоссе, 58 (Головинский  район г. Москва), рядом станция метро Водный стадион. Срок сдачи новостройки - 2021. . Стоимость квартиры - 26 881 600 рублей. Для вашего удобства предусмотрено онлайн бронирование на сайте Застройщика. Легко. Быстро. Бесплатно.</description>
+    <yandex-building-id>1570842</yandex-building-id>
+    <yandex-house-id>1570893</yandex-house-id>
+    <building-type>монолит</building-type>
+  </offer>
+  <offer internal-id="110377">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <deal-status>первичная продажа</deal-status>
+    <creation-date>2021-08-05T07:44:02+03:00</creation-date>
+    <last-update-date>2021-08-05T07:44:02+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <region>Москва</region>
+      <district>Головинский  район</district>
+      <address>Ленинградское шоссе, 58</address>
+      <latitude>55.843358</latitude>
+      <longitude>37.48189</longitude>
+      <metro>
+        <name>Водный стадион</name>
+      </metro>
+      <metro>
+        <name>Речной вокзал</name>
+      </metro>
+    </location>
+    <sales-agent>
+      <organization>Группа ЛСР</organization>
+      <phone>+7 (495) 228-22-88</phone>
+
+      <category>застройщик</category>
+    </sales-agent>
+    <price>
+      <value>26316000</value>
+      <currency>RUB</currency>
+    </price>
+    <mortgage>да</mortgage>
+    <area>
+      <value>81.60</value>
+      <unit>кв. м</unit>
+    </area>
+    <living-space>
+      <value>50.40</value>
+      <unit>кв. м</unit>
+    </living-space>
+    <kitchen-space>
+      <value>12.30</value>
+      <unit>кв. м</unit>
+    </kitchen-space>
+    <rooms>3</rooms>
+    <new-flat>1</new-flat>
+    <floor>15</floor>
+    <floors-total>29</floors-total>
+    <building-name>ЛЕНИНГРАDКА 58</building-name>
+    <built-year>2021</built-year>
+    <building-state>unfinished</building-state>
+    <ready-quarter>3</ready-quarter>
+    <building-section>2</building-section>
+    <description>В продаже 3-комнатная квартира  в новом доме жилого комплекса "ЛЕНИНГРАDКА 58". Квартира в корпусе "Ленинградское шоссе" на 15 этаже, общая площадь трехкомнатной квартиры 81.6 м.кв., кухня 12.3 м.кв. Жилой комплекс "ЛЕНИНГРАDКА 58" располагается по адресу Ленинградское шоссе, 58 (Головинский  район г. Москва), рядом станция метро Водный стадион. Срок сдачи новостройки - 2021. . Стоимость квартиры - 26 316 000 рублей. Для вашего удобства предусмотрено онлайн бронирование на сайте Застройщика. Легко. Быстро. Бесплатно.</description>
+    <yandex-building-id>1570842</yandex-building-id>
+    <yandex-house-id>1570893</yandex-house-id>
+    <building-type>монолит</building-type>
+  </offer>
+  <offer internal-id="110411">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <deal-status>первичная продажа</deal-status>
+    <creation-date>2021-08-05T07:44:02+03:00</creation-date>
+    <last-update-date>2021-08-05T07:44:02+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <region>Москва</region>
+      <district>Головинский  район</district>
+      <address>Ленинградское шоссе, 58</address>
+      <latitude>55.843358</latitude>
+      <longitude>37.48189</longitude>
+      <metro>
+        <name>Водный стадион</name>
+      </metro>
+      <metro>
+        <name>Речной вокзал</name>
+      </metro>
+    </location>
+    <sales-agent>
+      <organization>Группа ЛСР</organization>
+      <phone>+7 (495) 228-22-88</phone>
+
+      <category>застройщик</category>
+    </sales-agent>
+    <price>
+      <value>26373120</value>
+      <currency>RUB</currency>
+    </price>
+    <mortgage>да</mortgage>
+    <area>
+      <value>81.60</value>
+      <unit>кв. м</unit>
+    </area>
+    <living-space>
+      <value>50.40</value>
+      <unit>кв. м</unit>
+    </living-space>
+    <kitchen-space>
+      <value>12.30</value>
+      <unit>кв. м</unit>
+    </kitchen-space>
+    <rooms>3</rooms>
+    <new-flat>1</new-flat>
+    <floor>16</floor>
+    <floors-total>29</floors-total>
+    <building-name>ЛЕНИНГРАDКА 58</building-name>
+    <built-year>2021</built-year>
+    <building-state>unfinished</building-state>
+    <ready-quarter>3</ready-quarter>
+    <building-section>2</building-section>
+    <description>В продаже 3-комнатная квартира  в новом доме жилого комплекса "ЛЕНИНГРАDКА 58". Квартира в корпусе "Ленинградское шоссе" на 16 этаже, общая площадь трехкомнатной квартиры 81.6 м.кв., кухня 12.3 м.кв. Жилой комплекс "ЛЕНИНГРАDКА 58" располагается по адресу Ленинградское шоссе, 58 (Головинский  район г. Москва), рядом станция метро Водный стадион. Срок сдачи новостройки - 2021. . Стоимость квартиры - 26 373 120 рублей. Для вашего удобства предусмотрено онлайн бронирование на сайте Застройщика. Легко. Быстро. Бесплатно.</description>
+    <yandex-building-id>1570842</yandex-building-id>
+    <yandex-house-id>1570893</yandex-house-id>
+    <building-type>монолит</building-type>
+  </offer>
+  <offer internal-id="110412">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <deal-status>первичная продажа</deal-status>
+    <creation-date>2021-08-05T07:44:02+03:00</creation-date>
+    <last-update-date>2021-08-05T07:44:02+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <region>Москва</region>
+      <district>Головинский  район</district>
+      <address>Ленинградское шоссе, 58</address>
+      <latitude>55.843358</latitude>
+      <longitude>37.48189</longitude>
+      <metro>
+        <name>Водный стадион</name>
+      </metro>
+      <metro>
+        <name>Речной вокзал</name>
+      </metro>
+    </location>
+    <sales-agent>
+      <organization>Группа ЛСР</organization>
+      <phone>+7 (495) 228-22-88</phone>
+
+      <category>застройщик</category>
+    </sales-agent>
+    <price>
+      <value>26413220</value>
+      <currency>RUB</currency>
+    </price>
+    <mortgage>да</mortgage>
+    <area>
+      <value>81.80</value>
+      <unit>кв. м</unit>
+    </area>
+    <living-space>
+      <value>50.70</value>
+      <unit>кв. м</unit>
+    </living-space>
+    <kitchen-space>
+      <value>12.30</value>
+      <unit>кв. м</unit>
+    </kitchen-space>
+    <rooms>3</rooms>
+    <new-flat>1</new-flat>
+    <floor>16</floor>
+    <floors-total>29</floors-total>
+    <building-name>ЛЕНИНГРАDКА 58</building-name>
+    <built-year>2021</built-year>
+    <building-state>unfinished</building-state>
+    <ready-quarter>3</ready-quarter>
+    <building-section>2</building-section>
+    <description>В продаже 3-комнатная квартира  в новом доме жилого комплекса "ЛЕНИНГРАDКА 58". Квартира в корпусе "Ленинградское шоссе" на 16 этаже, общая площадь трехкомнатной квартиры 81.8 м.кв., кухня 12.3 м.кв. Жилой комплекс "ЛЕНИНГРАDКА 58" располагается по адресу Ленинградское шоссе, 58 (Головинский  район г. Москва), рядом станция метро Водный стадион. Срок сдачи новостройки - 2021. . Стоимость квартиры - 26 413 220 рублей. Для вашего удобства предусмотрено онлайн бронирование на сайте Застройщика. Легко. Быстро. Бесплатно.</description>
+    <yandex-building-id>1570842</yandex-building-id>
+    <yandex-house-id>1570893</yandex-house-id>
+    <building-type>монолит</building-type>
+  </offer>
+  <offer internal-id="110478">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <deal-status>первичная продажа</deal-status>
+    <creation-date>2021-08-05T07:44:02+03:00</creation-date>
+    <last-update-date>2021-08-05T07:44:02+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <region>Москва</region>
+      <district>Головинский  район</district>
+      <address>Ленинградское шоссе, 58</address>
+      <latitude>55.843358</latitude>
+      <longitude>37.48189</longitude>
+      <metro>
+        <name>Водный стадион</name>
+      </metro>
+      <metro>
+        <name>Речной вокзал</name>
+      </metro>
+    </location>
+    <sales-agent>
+      <organization>Группа ЛСР</organization>
+      <phone>+7 (495) 228-22-88</phone>
+
+      <category>застройщик</category>
+    </sales-agent>
+    <price>
+      <value>26560460</value>
+      <currency>RUB</currency>
+    </price>
+    <mortgage>да</mortgage>
+    <area>
+      <value>81.80</value>
+      <unit>кв. м</unit>
+    </area>
+    <living-space>
+      <value>50.70</value>
+      <unit>кв. м</unit>
+    </living-space>
+    <kitchen-space>
+      <value>12.30</value>
+      <unit>кв. м</unit>
+    </kitchen-space>
+    <rooms>3</rooms>
+    <new-flat>1</new-flat>
+    <floor>18</floor>
+    <floors-total>29</floors-total>
+    <building-name>ЛЕНИНГРАDКА 58</building-name>
+    <built-year>2021</built-year>
+    <building-state>unfinished</building-state>
+    <ready-quarter>3</ready-quarter>
+    <building-section>2</building-section>
+    <description>В продаже 3-комнатная квартира  в новом доме жилого комплекса "ЛЕНИНГРАDКА 58". Квартира в корпусе "Ленинградское шоссе" на 18 этаже, общая площадь трехкомнатной квартиры 81.8 м.кв., кухня 12.3 м.кв. Жилой комплекс "ЛЕНИНГРАDКА 58" располагается по адресу Ленинградское шоссе, 58 (Головинский  район г. Москва), рядом станция метро Водный стадион. Срок сдачи новостройки - 2021. . Стоимость квартиры - 26 560 460 рублей. Для вашего удобства предусмотрено онлайн бронирование на сайте Застройщика. Легко. Быстро. Бесплатно.</description>
+    <yandex-building-id>1570842</yandex-building-id>
+    <yandex-house-id>1570893</yandex-house-id>
+    <building-type>монолит</building-type>
+  </offer>
+  <offer internal-id="110509">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <deal-status>первичная продажа</deal-status>
+    <creation-date>2021-08-05T07:44:02+03:00</creation-date>
+    <last-update-date>2021-08-05T07:44:02+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <region>Москва</region>
+      <district>Головинский  район</district>
+      <address>Ленинградское шоссе, 58</address>
+      <latitude>55.843358</latitude>
+      <longitude>37.48189</longitude>
+      <metro>
+        <name>Водный стадион</name>
+      </metro>
+      <metro>
+        <name>Речной вокзал</name>
+      </metro>
+    </location>
+    <sales-agent>
+      <organization>Группа ЛСР</organization>
+      <phone>+7 (495) 228-22-88</phone>
+
+      <category>застройщик</category>
+    </sales-agent>
+    <price>
+      <value>26617720</value>
+      <currency>RUB</currency>
+    </price>
+    <mortgage>да</mortgage>
+    <area>
+      <value>81.80</value>
+      <unit>кв. м</unit>
+    </area>
+    <living-space>
+      <value>50.70</value>
+      <unit>кв. м</unit>
+    </living-space>
+    <kitchen-space>
+      <value>12.30</value>
+      <unit>кв. м</unit>
+    </kitchen-space>
+    <rooms>3</rooms>
+    <new-flat>1</new-flat>
+    <floor>19</floor>
+    <floors-total>29</floors-total>
+    <building-name>ЛЕНИНГРАDКА 58</building-name>
+    <built-year>2021</built-year>
+    <building-state>unfinished</building-state>
+    <ready-quarter>3</ready-quarter>
+    <building-section>2</building-section>
+    <description>В продаже 3-комнатная квартира  в новом доме жилого комплекса "ЛЕНИНГРАDКА 58". Квартира в корпусе "Ленинградское шоссе" на 19 этаже, общая площадь трехкомнатной квартиры 81.8 м.кв., кухня 12.3 м.кв. Жилой комплекс "ЛЕНИНГРАDКА 58" располагается по адресу Ленинградское шоссе, 58 (Головинский  район г. Москва), рядом станция метро Водный стадион. Срок сдачи новостройки - 2021. . Стоимость квартиры - 26 617 720 рублей. Для вашего удобства предусмотрено онлайн бронирование на сайте Застройщика. Легко. Быстро. Бесплатно.</description>
+    <yandex-building-id>1570842</yandex-building-id>
+    <yandex-house-id>1570893</yandex-house-id>
+    <building-type>монолит</building-type>
+  </offer>
+  <offer internal-id="110539">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <deal-status>первичная продажа</deal-status>
+    <creation-date>2021-08-05T07:44:02+03:00</creation-date>
+    <last-update-date>2021-08-05T07:44:02+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <region>Москва</region>
+      <district>Головинский  район</district>
+      <address>Ленинградское шоссе, 58</address>
+      <latitude>55.843358</latitude>
+      <longitude>37.48189</longitude>
+      <metro>
+        <name>Водный стадион</name>
+      </metro>
+      <metro>
+        <name>Речной вокзал</name>
+      </metro>
+    </location>
+    <sales-agent>
+      <organization>Группа ЛСР</organization>
+      <phone>+7 (495) 228-22-88</phone>
+
+      <category>застройщик</category>
+    </sales-agent>
+    <price>
+      <value>26446710</value>
+      <currency>RUB</currency>
+    </price>
+    <mortgage>да</mortgage>
+    <area>
+      <value>81.10</value>
+      <unit>кв. м</unit>
+    </area>
+    <living-space>
+      <value>50.70</value>
+      <unit>кв. м</unit>
+    </living-space>
+    <kitchen-space>
+      <value>12.10</value>
+      <unit>кв. м</unit>
+    </kitchen-space>
+    <rooms>3</rooms>
+    <new-flat>1</new-flat>
+    <floor>20</floor>
+    <floors-total>29</floors-total>
+    <building-name>ЛЕНИНГРАDКА 58</building-name>
+    <built-year>2021</built-year>
+    <building-state>unfinished</building-state>
+    <ready-quarter>3</ready-quarter>
+    <building-section>2</building-section>
+    <description>В продаже 3-комнатная квартира  в новом доме жилого комплекса "ЛЕНИНГРАDКА 58". Квартира в корпусе "Ленинградское шоссе" на 20 этаже, общая площадь трехкомнатной квартиры 81.1 м.кв., кухня 12.1 м.кв. Жилой комплекс "ЛЕНИНГРАDКА 58" располагается по адресу Ленинградское шоссе, 58 (Головинский  район г. Москва), рядом станция метро Водный стадион. Срок сдачи новостройки - 2021. . Стоимость квартиры - 26 446 710 рублей. Для вашего удобства предусмотрено онлайн бронирование на сайте Застройщика. Легко. Быстро. Бесплатно.</description>
+    <yandex-building-id>1570842</yandex-building-id>
+    <yandex-house-id>1570893</yandex-house-id>
+    <building-type>монолит</building-type>
+  </offer>
+  <offer internal-id="110581">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <deal-status>первичная продажа</deal-status>
+    <creation-date>2021-08-05T07:44:02+03:00</creation-date>
+    <last-update-date>2021-08-05T07:44:02+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <region>Москва</region>
+      <district>Головинский  район</district>
+      <address>Ленинградское шоссе, 58</address>
+      <latitude>55.843358</latitude>
+      <longitude>37.48189</longitude>
+      <metro>
+        <name>Водный стадион</name>
+      </metro>
+      <metro>
+        <name>Речной вокзал</name>
+      </metro>
+    </location>
+    <sales-agent>
+      <organization>Группа ЛСР</organization>
+      <phone>+7 (495) 228-22-88</phone>
+
+      <category>застройщик</category>
+    </sales-agent>
+    <price>
+      <value>25585110</value>
+      <currency>RUB</currency>
+    </price>
+    <mortgage>да</mortgage>
+    <area>
+      <value>81.30</value>
+      <unit>кв. м</unit>
+    </area>
+    <living-space>
+      <value>47.80</value>
+      <unit>кв. м</unit>
+    </living-space>
+    <kitchen-space>
+      <value>18.40</value>
+      <unit>кв. м</unit>
+    </kitchen-space>
+    <rooms>3</rooms>
+    <new-flat>1</new-flat>
+    <floor>21</floor>
+    <floors-total>29</floors-total>
+    <building-name>ЛЕНИНГРАDКА 58</building-name>
+    <built-year>2021</built-year>
+    <building-state>unfinished</building-state>
+    <ready-quarter>3</ready-quarter>
+    <building-section>2</building-section>
+    <description>В продаже 3-комнатная евро квартира  в новом доме жилого комплекса "ЛЕНИНГРАDКА 58". Квартира в корпусе "Ленинградское шоссе" на 21 этаже, общая площадь трехкомнатной квартиры 81.3 м.кв., кухня 18.4 м.кв. Жилой комплекс "ЛЕНИНГРАDКА 58" располагается по адресу Ленинградское шоссе, 58 (Головинский  район г. Москва), рядом станция метро Водный стадион. Срок сдачи новостройки - 2021. . Стоимость квартиры - 25 585 110 рублей. Для вашего удобства предусмотрено онлайн бронирование на сайте Застройщика. Легко. Быстро. Бесплатно.</description>
+    <yandex-building-id>1570842</yandex-building-id>
+    <yandex-house-id>1570893</yandex-house-id>
+    <building-type>монолит</building-type>
+  </offer>
+  <offer internal-id="110596">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <deal-status>первичная продажа</deal-status>
+    <creation-date>2021-08-05T07:44:02+03:00</creation-date>
+    <last-update-date>2021-08-05T07:44:02+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <region>Москва</region>
+      <district>Головинский  район</district>
+      <address>Ленинградское шоссе, 58</address>
+      <latitude>55.843358</latitude>
+      <longitude>37.48189</longitude>
+      <metro>
+        <name>Водный стадион</name>
+      </metro>
+      <metro>
+        <name>Речной вокзал</name>
+      </metro>
+    </location>
+    <sales-agent>
+      <organization>Группа ЛСР</organization>
+      <phone>+7 (495) 228-22-88</phone>
+
+      <category>застройщик</category>
+    </sales-agent>
+    <price>
+      <value>26560250</value>
+      <currency>RUB</currency>
+    </price>
+    <mortgage>да</mortgage>
+    <area>
+      <value>81.10</value>
+      <unit>кв. м</unit>
+    </area>
+    <living-space>
+      <value>50.70</value>
+      <unit>кв. м</unit>
+    </living-space>
+    <kitchen-space>
+      <value>12.10</value>
+      <unit>кв. м</unit>
+    </kitchen-space>
+    <rooms>3</rooms>
+    <new-flat>1</new-flat>
+    <floor>22</floor>
+    <floors-total>29</floors-total>
+    <building-name>ЛЕНИНГРАDКА 58</building-name>
+    <built-year>2021</built-year>
+    <building-state>unfinished</building-state>
+    <ready-quarter>3</ready-quarter>
+    <building-section>2</building-section>
+    <description>В продаже 3-комнатная квартира  в новом доме жилого комплекса "ЛЕНИНГРАDКА 58". Квартира в корпусе "Ленинградское шоссе" на 22 этаже, общая площадь трехкомнатной квартиры 81.1 м.кв., кухня 12.1 м.кв. Жилой комплекс "ЛЕНИНГРАDКА 58" располагается по адресу Ленинградское шоссе, 58 (Головинский  район г. Москва), рядом станция метро Водный стадион. Срок сдачи новостройки - 2021. . Стоимость квартиры - 26 560 250 рублей. Для вашего удобства предусмотрено онлайн бронирование на сайте Застройщика. Легко. Быстро. Бесплатно.</description>
+    <yandex-building-id>1570842</yandex-building-id>
+    <yandex-house-id>1570893</yandex-house-id>
+    <building-type>монолит</building-type>
+  </offer>
+  <offer internal-id="110597">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <deal-status>первичная продажа</deal-status>
+    <creation-date>2021-08-05T07:44:02+03:00</creation-date>
+    <last-update-date>2021-08-05T07:44:02+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <region>Москва</region>
+      <district>Головинский  район</district>
+      <address>Ленинградское шоссе, 58</address>
+      <latitude>55.843358</latitude>
+      <longitude>37.48189</longitude>
+      <metro>
+        <name>Водный стадион</name>
+      </metro>
+      <metro>
+        <name>Речной вокзал</name>
+      </metro>
+    </location>
+    <sales-agent>
+      <organization>Группа ЛСР</organization>
+      <phone>+7 (495) 228-22-88</phone>
+
+      <category>застройщик</category>
+    </sales-agent>
+    <price>
+      <value>27571140</value>
+      <currency>RUB</currency>
+    </price>
+    <mortgage>да</mortgage>
+    <area>
+      <value>84.60</value>
+      <unit>кв. м</unit>
+    </area>
+    <living-space>
+      <value>45.30</value>
+      <unit>кв. м</unit>
+    </living-space>
+    <kitchen-space>
+      <value>24.20</value>
+      <unit>кв. м</unit>
+    </kitchen-space>
+    <rooms>3</rooms>
+    <new-flat>1</new-flat>
+    <floor>22</floor>
+    <floors-total>29</floors-total>
+    <building-name>ЛЕНИНГРАDКА 58</building-name>
+    <built-year>2021</built-year>
+    <building-state>unfinished</building-state>
+    <ready-quarter>3</ready-quarter>
+    <building-section>2</building-section>
+    <description>В продаже 3-комнатная евро квартира  в новом доме жилого комплекса "ЛЕНИНГРАDКА 58". Квартира в корпусе "Ленинградское шоссе" на 22 этаже, общая площадь трехкомнатной квартиры 84.6 м.кв., кухня 24.2 м.кв. Жилой комплекс "ЛЕНИНГРАDКА 58" располагается по адресу Ленинградское шоссе, 58 (Головинский  район г. Москва), рядом станция метро Водный стадион. Срок сдачи новостройки - 2021. . Стоимость квартиры - 27 571 140 рублей. Для вашего удобства предусмотрено онлайн бронирование на сайте Застройщика. Легко. Быстро. Бесплатно.</description>
+    <yandex-building-id>1570842</yandex-building-id>
+    <yandex-house-id>1570893</yandex-house-id>
+    <building-type>монолит</building-type>
+  </offer>
+  <offer internal-id="110649">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <deal-status>первичная продажа</deal-status>
+    <creation-date>2021-08-05T07:44:02+03:00</creation-date>
+    <last-update-date>2021-08-05T07:44:02+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <region>Москва</region>
+      <district>Головинский  район</district>
+      <address>Ленинградское шоссе, 58</address>
+      <latitude>55.843358</latitude>
+      <longitude>37.48189</longitude>
+      <metro>
+        <name>Водный стадион</name>
+      </metro>
+      <metro>
+        <name>Речной вокзал</name>
+      </metro>
+    </location>
+    <sales-agent>
+      <organization>Группа ЛСР</organization>
+      <phone>+7 (495) 228-22-88</phone>
+
+      <category>застройщик</category>
+    </sales-agent>
+    <price>
+      <value>26681900</value>
+      <currency>RUB</currency>
+    </price>
+    <mortgage>да</mortgage>
+    <area>
+      <value>81.10</value>
+      <unit>кв. м</unit>
+    </area>
+    <living-space>
+      <value>50.70</value>
+      <unit>кв. м</unit>
+    </living-space>
+    <kitchen-space>
+      <value>12.10</value>
+      <unit>кв. м</unit>
+    </kitchen-space>
+    <rooms>3</rooms>
+    <new-flat>1</new-flat>
+    <floor>24</floor>
+    <floors-total>29</floors-total>
+    <building-name>ЛЕНИНГРАDКА 58</building-name>
+    <built-year>2021</built-year>
+    <building-state>unfinished</building-state>
+    <ready-quarter>3</ready-quarter>
+    <building-section>2</building-section>
+    <description>В продаже 3-комнатная квартира  в новом доме жилого комплекса "ЛЕНИНГРАDКА 58". Квартира в корпусе "Ленинградское шоссе" на 24 этаже, общая площадь трехкомнатной квартиры 81.1 м.кв., кухня 12.1 м.кв. Жилой комплекс "ЛЕНИНГРАDКА 58" располагается по адресу Ленинградское шоссе, 58 (Головинский  район г. Москва), рядом станция метро Водный стадион. Срок сдачи новостройки - 2021. . Стоимость квартиры - 26 681 900 рублей. Для вашего удобства предусмотрено онлайн бронирование на сайте Застройщика. Легко. Быстро. Бесплатно.</description>
+    <yandex-building-id>1570842</yandex-building-id>
+    <yandex-house-id>1570893</yandex-house-id>
+    <building-type>монолит</building-type>
+  </offer>
+  <offer internal-id="110650">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <deal-status>первичная продажа</deal-status>
+    <creation-date>2021-08-05T07:44:02+03:00</creation-date>
+    <last-update-date>2021-08-05T07:44:02+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <region>Москва</region>
+      <district>Головинский  район</district>
+      <address>Ленинградское шоссе, 58</address>
+      <latitude>55.843358</latitude>
+      <longitude>37.48189</longitude>
+      <metro>
+        <name>Водный стадион</name>
+      </metro>
+      <metro>
+        <name>Речной вокзал</name>
+      </metro>
+    </location>
+    <sales-agent>
+      <organization>Группа ЛСР</organization>
+      <phone>+7 (495) 228-22-88</phone>
+
+      <category>застройщик</category>
+    </sales-agent>
+    <price>
+      <value>27706500</value>
+      <currency>RUB</currency>
+    </price>
+    <mortgage>да</mortgage>
+    <area>
+      <value>84.60</value>
+      <unit>кв. м</unit>
+    </area>
+    <living-space>
+      <value>45.30</value>
+      <unit>кв. м</unit>
+    </living-space>
+    <kitchen-space>
+      <value>24.20</value>
+      <unit>кв. м</unit>
+    </kitchen-space>
+    <rooms>3</rooms>
+    <new-flat>1</new-flat>
+    <floor>24</floor>
+    <floors-total>29</floors-total>
+    <building-name>ЛЕНИНГРАDКА 58</building-name>
+    <built-year>2021</built-year>
+    <building-state>unfinished</building-state>
+    <ready-quarter>3</ready-quarter>
+    <building-section>2</building-section>
+    <description>В продаже 3-комнатная евро квартира  в новом доме жилого комплекса "ЛЕНИНГРАDКА 58". Квартира в корпусе "Ленинградское шоссе" на 24 этаже, общая площадь трехкомнатной квартиры 84.6 м.кв., кухня 24.2 м.кв. Жилой комплекс "ЛЕНИНГРАDКА 58" располагается по адресу Ленинградское шоссе, 58 (Головинский  район г. Москва), рядом станция метро Водный стадион. Срок сдачи новостройки - 2021. . Стоимость квартиры - 27 706 500 рублей. Для вашего удобства предусмотрено онлайн бронирование на сайте Застройщика. Легко. Быстро. Бесплатно.</description>
+    <yandex-building-id>1570842</yandex-building-id>
+    <yandex-house-id>1570893</yandex-house-id>
+    <building-type>монолит</building-type>
+  </offer>
+  <offer internal-id="110697">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <deal-status>первичная продажа</deal-status>
+    <creation-date>2021-08-05T07:44:02+03:00</creation-date>
+    <last-update-date>2021-08-05T07:44:02+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <region>Москва</region>
+      <district>Головинский  район</district>
+      <address>Ленинградское шоссе, 58</address>
+      <latitude>55.843358</latitude>
+      <longitude>37.48189</longitude>
+      <metro>
+        <name>Водный стадион</name>
+      </metro>
+      <metro>
+        <name>Речной вокзал</name>
+      </metro>
+    </location>
+    <sales-agent>
+      <organization>Группа ЛСР</organization>
+      <phone>+7 (495) 228-22-88</phone>
+
+      <category>застройщик</category>
+    </sales-agent>
+    <price>
+      <value>26795440</value>
+      <currency>RUB</currency>
+    </price>
+    <mortgage>да</mortgage>
+    <area>
+      <value>81.10</value>
+      <unit>кв. м</unit>
+    </area>
+    <living-space>
+      <value>50.70</value>
+      <unit>кв. м</unit>
+    </living-space>
+    <kitchen-space>
+      <value>12.10</value>
+      <unit>кв. м</unit>
+    </kitchen-space>
+    <rooms>3</rooms>
+    <new-flat>1</new-flat>
+    <floor>26</floor>
+    <floors-total>29</floors-total>
+    <building-name>ЛЕНИНГРАDКА 58</building-name>
+    <built-year>2021</built-year>
+    <building-state>unfinished</building-state>
+    <ready-quarter>3</ready-quarter>
+    <building-section>2</building-section>
+    <description>В продаже 3-комнатная квартира  в новом доме жилого комплекса "ЛЕНИНГРАDКА 58". Квартира в корпусе "Ленинградское шоссе" на 26 этаже, общая площадь трехкомнатной квартиры 81.1 м.кв., кухня 12.1 м.кв. Жилой комплекс "ЛЕНИНГРАDКА 58" располагается по адресу Ленинградское шоссе, 58 (Головинский  район г. Москва), рядом станция метро Водный стадион. Срок сдачи новостройки - 2021. . Стоимость квартиры - 26 795 440 рублей. Для вашего удобства предусмотрено онлайн бронирование на сайте Застройщика. Легко. Быстро. Бесплатно.</description>
+    <yandex-building-id>1570842</yandex-building-id>
+    <yandex-house-id>1570893</yandex-house-id>
+    <building-type>монолит</building-type>
+  </offer>
+  <offer internal-id="110698">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <deal-status>первичная продажа</deal-status>
+    <creation-date>2021-08-05T07:44:02+03:00</creation-date>
+    <last-update-date>2021-08-05T07:44:02+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <region>Москва</region>
+      <district>Головинский  район</district>
+      <address>Ленинградское шоссе, 58</address>
+      <latitude>55.843358</latitude>
+      <longitude>37.48189</longitude>
+      <metro>
+        <name>Водный стадион</name>
+      </metro>
+      <metro>
+        <name>Речной вокзал</name>
+      </metro>
+    </location>
+    <sales-agent>
+      <organization>Группа ЛСР</organization>
+      <phone>+7 (495) 228-22-88</phone>
+
+      <category>застройщик</category>
+    </sales-agent>
+    <price>
+      <value>27816480</value>
+      <currency>RUB</currency>
+    </price>
+    <mortgage>да</mortgage>
+    <area>
+      <value>84.60</value>
+      <unit>кв. м</unit>
+    </area>
+    <living-space>
+      <value>45.30</value>
+      <unit>кв. м</unit>
+    </living-space>
+    <kitchen-space>
+      <value>24.20</value>
+      <unit>кв. м</unit>
+    </kitchen-space>
+    <rooms>3</rooms>
+    <new-flat>1</new-flat>
+    <floor>26</floor>
+    <floors-total>29</floors-total>
+    <building-name>ЛЕНИНГРАDКА 58</building-name>
+    <built-year>2021</built-year>
+    <building-state>unfinished</building-state>
+    <ready-quarter>3</ready-quarter>
+    <building-section>2</building-section>
+    <description>В продаже 3-комнатная евро квартира  в новом доме жилого комплекса "ЛЕНИНГРАDКА 58". Квартира в корпусе "Ленинградское шоссе" на 26 этаже, общая площадь трехкомнатной квартиры 84.6 м.кв., кухня 24.2 м.кв. Жилой комплекс "ЛЕНИНГРАDКА 58" располагается по адресу Ленинградское шоссе, 58 (Головинский  район г. Москва), рядом станция метро Водный стадион. Срок сдачи новостройки - 2021. . Стоимость квартиры - 27 816 480 рублей. Для вашего удобства предусмотрено онлайн бронирование на сайте Застройщика. Легко. Быстро. Бесплатно.</description>
+    <yandex-building-id>1570842</yandex-building-id>
+    <yandex-house-id>1570893</yandex-house-id>
+    <building-type>монолит</building-type>
+  </offer>
+  <offer internal-id="110709">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <deal-status>первичная продажа</deal-status>
+    <creation-date>2021-08-05T07:44:02+03:00</creation-date>
+    <last-update-date>2021-08-05T07:44:02+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <region>Москва</region>
+      <district>Головинский  район</district>
+      <address>Ленинградское шоссе, 58</address>
+      <latitude>55.843358</latitude>
+      <longitude>37.48189</longitude>
+      <metro>
+        <name>Водный стадион</name>
+      </metro>
+      <metro>
+        <name>Речной вокзал</name>
+      </metro>
+    </location>
+    <sales-agent>
+      <organization>Группа ЛСР</organization>
+      <phone>+7 (495) 228-22-88</phone>
+
+      <category>застройщик</category>
+    </sales-agent>
+    <price>
+      <value>25691680</value>
+      <currency>RUB</currency>
+    </price>
+    <mortgage>да</mortgage>
+    <area>
+      <value>81.20</value>
+      <unit>кв. м</unit>
+    </area>
+    <living-space>
+      <value>47.80</value>
+      <unit>кв. м</unit>
+    </living-space>
+    <kitchen-space>
+      <value>18.30</value>
+      <unit>кв. м</unit>
+    </kitchen-space>
+    <rooms>3</rooms>
+    <new-flat>1</new-flat>
+    <floor>26</floor>
+    <floors-total>29</floors-total>
+    <building-name>ЛЕНИНГРАDКА 58</building-name>
+    <built-year>2021</built-year>
+    <building-state>unfinished</building-state>
+    <ready-quarter>3</ready-quarter>
+    <building-section>2</building-section>
+    <description>В продаже 3-комнатная евро квартира  в новом доме жилого комплекса "ЛЕНИНГРАDКА 58". Квартира в корпусе "Ленинградское шоссе" на 26 этаже, общая площадь трехкомнатной квартиры 81.2 м.кв., кухня 18.3 м.кв. Жилой комплекс "ЛЕНИНГРАDКА 58" располагается по адресу Ленинградское шоссе, 58 (Головинский  район г. Москва), рядом станция метро Водный стадион. Срок сдачи новостройки - 2021. . Стоимость квартиры - 25 691 680 рублей. Для вашего удобства предусмотрено онлайн бронирование на сайте Застройщика. Легко. Быстро. Бесплатно.</description>
+    <yandex-building-id>1570842</yandex-building-id>
+    <yandex-house-id>1570893</yandex-house-id>
+    <building-type>монолит</building-type>
+  </offer>
+  <offer internal-id="110721">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <deal-status>первичная продажа</deal-status>
+    <creation-date>2021-08-05T07:44:02+03:00</creation-date>
+    <last-update-date>2021-08-05T07:44:02+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <region>Москва</region>
+      <district>Головинский  район</district>
+      <address>Ленинградское шоссе, 58</address>
+      <latitude>55.843358</latitude>
+      <longitude>37.48189</longitude>
+      <metro>
+        <name>Водный стадион</name>
+      </metro>
+      <metro>
+        <name>Речной вокзал</name>
+      </metro>
+    </location>
+    <sales-agent>
+      <organization>Группа ЛСР</organization>
+      <phone>+7 (495) 228-22-88</phone>
+
+      <category>застройщик</category>
+    </sales-agent>
+    <price>
+      <value>27875700</value>
+      <currency>RUB</currency>
+    </price>
+    <mortgage>да</mortgage>
+    <area>
+      <value>84.60</value>
+      <unit>кв. м</unit>
+    </area>
+    <living-space>
+      <value>45.30</value>
+      <unit>кв. м</unit>
+    </living-space>
+    <kitchen-space>
+      <value>24.20</value>
+      <unit>кв. м</unit>
+    </kitchen-space>
+    <rooms>3</rooms>
+    <new-flat>1</new-flat>
+    <floor>27</floor>
+    <floors-total>29</floors-total>
+    <building-name>ЛЕНИНГРАDКА 58</building-name>
+    <built-year>2021</built-year>
+    <building-state>unfinished</building-state>
+    <ready-quarter>3</ready-quarter>
+    <building-section>2</building-section>
+    <description>В продаже 3-комнатная евро квартира  в новом доме жилого комплекса "ЛЕНИНГРАDКА 58". Квартира в корпусе "Ленинградское шоссе" на 27 этаже, общая площадь трехкомнатной квартиры 84.6 м.кв., кухня 24.2 м.кв. Жилой комплекс "ЛЕНИНГРАDКА 58" располагается по адресу Ленинградское шоссе, 58 (Головинский  район г. Москва), рядом станция метро Водный стадион. Срок сдачи новостройки - 2021. . Стоимость квартиры - 27 875 700 рублей. Для вашего удобства предусмотрено онлайн бронирование на сайте Застройщика. Легко. Быстро. Бесплатно.</description>
+    <yandex-building-id>1570842</yandex-building-id>
+    <yandex-house-id>1570893</yandex-house-id>
+    <building-type>монолит</building-type>
+  </offer>
+</realty-feed>
