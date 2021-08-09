@@ -2,6 +2,7 @@ package xmlparse
 
 import (
 	"encoding/xml"
+	"fmt"
 	"io/ioutil"
 	"os"
 )
@@ -38,13 +39,17 @@ type Lot struct {
 }
 
 func getXMLFromPath(path string) []byte {
-	xmlFile, err := os.Open(path)
+	xmlFile, fileErr := os.Open(path)
 
-	if err != nil {
-		panic(err)
+	if fileErr != nil {
+		fmt.Errorf("Error while open file: %w", fileErr)
 	}
 
-	data, _ := ioutil.ReadAll(xmlFile)
+	data, byteErr := ioutil.ReadAll(xmlFile)
+
+	if byteErr != nil {
+		fmt.Errorf("Error while read file: %w", byteErr)
+	}
 
 	return data
 }
