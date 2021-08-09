@@ -7,7 +7,6 @@ import (
 )
 
 type Project struct {
-	XMLName     xml.Name   `xml:"offer"`
 	ID          int32      `xml:"internal-id,attr"`
 	Name        string     `xml:"building-name"`
 	Description string     `xml:"description"`
@@ -45,11 +44,13 @@ func getXMLFromPath(path string) []byte {
 		panic(err)
 	}
 
-	data, err := ioutil.ReadAll(xmlFile)
+	data, _ := ioutil.ReadAll(xmlFile)
 
 	return data
 }
 
-func main() {
-
+func getStructsFromXML(data []byte) []Project {
+	var project []Project
+	xml.Unmarshal(data, &project)
+	return project
 }
