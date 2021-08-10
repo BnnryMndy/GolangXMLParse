@@ -16,27 +16,30 @@ func TestGetStructsFromXML(t *testing.T) {
 	}{
 		{
 			result: Project{
-				ID:      109805,
-				Name:    "ЛЕНИНГРАDКА 58",
-				Address: "Ленинградское шоссе, 58",
+				ID:          109805,
+				Name:        "ЛЕНИНГРАDКА 58",
+				Address:     "Ленинградское шоссе, 58",
+				Description: `В продаже 2-комнатная евро квартира  в новом доме жилого комплекса "ЛЕНИНГРАDКА 58". Квартира в корпусе "Ленинградское шоссе" на 2 этаже, общая площадь двухкомнатной квартиры 69.6 м.кв., кухня 22.5 м.кв. Жилой комплекс "ЛЕНИНГРАDКА 58" располагается по адресу Ленинградское шоссе, 58 (Головинский  район г. Москва), рядом станция метро Водный стадион. Срок сдачи новостройки - 2021. . Стоимость квартиры - 21 297 600 рублей. Для вашего удобства предусмотрено онлайн бронирование на сайте Застройщика. Легко. Быстро. Бесплатно.`,
 				Building: []Building{
-					Building{
-						ID:   nil,
-						Name: "",
+					{
+						ParrentID: 109805,
+						ID:        1570893,
+						Name:      "ЛЕНИНГРАDКА 58",
 						Section: []Section{
-							Section{
-								ID:   nil,
-								Name: nil,
+							{
+								ParrentID: 109805,
+								ID:        1570842,
+								Name:      "ЛЕНИНГРАDКА 58",
 								Lot: []Lot{
-									Lot{
-										ID:            nil,
-										Floor:         nil,
-										TotalSquare:   nil,
-										LivingSquare:  nil,
-										KitchenSquare: nil,
-										Price:         nil,
+									{
+										ID:            109805,
+										Floor:         2,
+										TotalSquare:   69.60,
+										LivingSquare:  33.20,
+										KitchenSquare: 22.50,
+										Price:         21297600,
 										LotType:       "продажа",
-										RoomType:      nil,
+										RoomType:      "квартира",
 									},
 								},
 							},
@@ -44,7 +47,8 @@ func TestGetStructsFromXML(t *testing.T) {
 					},
 				},
 			},
-			inputData: []byte(`<offer internal-id="109805"> <type>продажа</type>
+			inputData: []byte(`<offer internal-id="109805">
+      <type>продажа</type>
       <property-type>жилая</property-type>
       <category>квартира</category>
       <deal-status>первичная продажа</deal-status>
@@ -112,19 +116,8 @@ func TestGetStructsFromXML(t *testing.T) {
 	testProject := getStructsFromXML(testData)
 
 	//Assert
-	if testProject[0].ID != testStruct.ID {
-		t.Error("Expected ", testStruct.ID, ", got ", testProject[0].ID)
-	}
+	assert.Equal(t, testTabale[0].result, testProject[0], "objects not equal")
 
-	if testProject[0].Name != testStruct.Name {
-		t.Error("Expected ", testStruct.Name, ", got ", testProject[0].Name)
-	}
-
-	if testProject[0].Address != testStruct.Address {
-		t.Error("Expected ", testStruct.Address, ", got ", testProject[0].Address)
-	}
-
-	assert.Equal(t, testProject[0], testStruct, "Projects not equal")
 }
 
 var testData = []byte(`<offer internal-id="109805">
