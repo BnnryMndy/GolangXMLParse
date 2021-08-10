@@ -7,39 +7,6 @@ import (
 	"os"
 )
 
-type Project struct {
-	ID          int32  `xml:"internal-id,attr"`
-	Name        string `xml:"building-name"` //? Не уверен, что записывать сюда
-	Description string `xml:"description"`
-	Address     string `xml:"location>address"`
-	Building    []Building
-}
-
-type Building struct {
-	ParrentID int32     `xml:"internal-id,attr"` //!
-	ID        int32     `xml:"yandex-house-id"`
-	Name      string    `xml:"building-name"` //? Не уверен, что записывать сюда
-	Section   []Section //`xml:"offer"`
-}
-
-type Section struct {
-	ParrentID int32  `xml:"internal-id,attr"` //! временное решение
-	ID        int32  `xml:"yandex-building-id"`
-	Name      string `xml:"building-name"` //? Не уверен, что записывать сюда
-	Lot       []Lot
-}
-
-type Lot struct {
-	ID            int32   `xml:"internal-id,attr"` //? Не уверен, что записывать сюда
-	Floor         int32   `xml:"floor"`
-	TotalSquare   float32 `xml:"area>value"`
-	LivingSquare  float32 `xml:"living-space>value"`
-	KitchenSquare float32 `xml:"kitchen-space>value"`
-	Price         float32 `xml:"price>value"`
-	LotType       string  `xml:"type"`
-	RoomType      string  `xml:"category"`
-}
-
 //getting xml file in byte slice from path.
 func getXMLFromPath(path string) []byte {
 	xmlFile, fileErr := os.Open(path)
@@ -65,29 +32,32 @@ func getStructsFromXML(data []byte) []Project {
 	var section []Section
 	xml.Unmarshal(data, &section)
 
+	for _, lel := range lot {
+		for j, sel := range section {
+			if lel.ID == sel.ParrentID {
+				section[j].Lot = append(section[j].Lot, lel)
+			}
+		}
+	}
+
 	var building []Building
 	xml.Unmarshal(data, &building)
+
+	for _, sel := range section {
+		for j, bel := range building {
+			if sel.ParrentID == bel.ParrentID {
+				building[j].Section = append(building[j].Section, sel)
+			}
+		}
+	}
 
 	var project []Project
 	xml.Unmarshal(data, &project)
 
-	//TODO: Сделать менее затратно
-	for i, el := range project {
-		for j, bel := range building {
-			if el.ID == bel.ParrentID {
-				project[i].Building = append(project[i].Building, bel)
-			}
-
-			for k, sel := range section {
-				if bel.ParrentID == sel.ParrentID {
-					building[j].Section = append(building[j].Section, sel)
-				}
-				for _, lel := range lot {
-					if lel.ID == sel.ParrentID {
-						section[k].Lot = append(section[k].Lot, lel)
-					}
-
-				}
+	for _, bel := range building {
+		for j, el := range project {
+			if bel.ParrentID == el.ID {
+				project[j].Building = append(project[j].Building, bel)
 			}
 		}
 	}
