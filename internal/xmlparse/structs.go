@@ -9,16 +9,16 @@ type Project struct {
 }
 
 type Building struct {
-	ParrentID int32     `xml:"internal-id,attr"` //!
-	ID        int32     `xml:"yandex-house-id"`
-	Name      string    `xml:"building-name"` //? Не уверен, что записывать сюда
-	Section   []Section //`xml:"offer"`
+	ParrentID int32 `xml:"internal-id,attr"` //TODO: найти элегантное решение без использования перебора
+	ID        int32 `xml:"yandex-house-id"`
+	Name      string
+	Section   []Section
 }
 
 type Section struct {
-	ParrentID int32  `xml:"internal-id,attr"` //! временное решение
-	ID        int32  `xml:"yandex-building-id"`
-	Name      string `xml:"building-name"` //? Не уверен, что записывать сюда
+	ParrentID int32 `xml:"internal-id,attr"` //TODO: найти элегантное решение без использования перебора
+	ID        int32 `xml:"yandex-building-id"`
+	Name      string
 	Lot       []Lot
 }
 

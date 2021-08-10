@@ -24,12 +24,12 @@ func TestGetStructsFromXML(t *testing.T) {
 						{
 							ParrentID: 109805,
 							ID:        1570893,
-							Name:      "ЛЕНИНГРАDКА 58",
+							Name:      "",
 							Section: []Section{
 								{
 									ParrentID: 109805,
 									ID:        1570842,
-									Name:      "ЛЕНИНГРАDКА 58",
+									Name:      "",
 									Lot: []Lot{
 										{
 											ID:            109805,
