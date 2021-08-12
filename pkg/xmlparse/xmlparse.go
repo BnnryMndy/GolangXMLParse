@@ -15,6 +15,7 @@ func getXMLFromPath(path string) []byte {
 		fmt.Errorf("Error while open file: %w", fileErr)
 	}
 
+	defer xmlFile.Close()
 	data, byteErr := ioutil.ReadAll(xmlFile)
 
 	if byteErr != nil {
@@ -25,7 +26,7 @@ func getXMLFromPath(path string) []byte {
 }
 
 //getting struct from byte slice xml
-func getStructsFromXML(data []byte) []Project {
+func getStructsFromXML(data []byte) []structs.Project {
 
 	//TODO: найти элегантное решение без использования перебора и доп. полей в структурах
 	var lot []Lot

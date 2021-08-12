@@ -127,3 +127,5 @@ func TestGetStructsFromXML(t *testing.T) {
 		assert.Equal(t, test.result, returnedData, "objects not equal")
 	}
 }
+
+//TODO: Create test func for benchmark test
