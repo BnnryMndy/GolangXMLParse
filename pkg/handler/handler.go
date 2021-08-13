@@ -1,4 +1,4 @@
-package handler
+package handlers
 
 import "github.com/gin-gonic/gin"
 
@@ -12,11 +12,12 @@ func (h *Handler) InitRoutes() *gin.Engine {
 	{
 		parse := router.Group("/parse")
 		{
-			parse.GET("/")
-			parse.POST("/")
+			parse.GET("/", h.getParse)
+			parse.POST("/", h.postParse)
 			save := router.Group("/save")
 			{
-
+				parse.GET("/")
+				parse.POST("/")
 			}
 		}
 	}
