@@ -4,6 +4,7 @@ import (
 	"encoding/xml"
 	"fmt"
 	"io/ioutil"
+	"log"
 	"os"
 )
 
@@ -12,21 +13,21 @@ func getXMLFromPath(path string) []byte {
 	xmlFile, fileErr := os.Open(path)
 
 	if fileErr != nil {
-		fmt.Errorf("Error while open file: %w", fileErr)
+		log.Print(fmt.Errorf("Error while open file: %w", fileErr))
 	}
 
 	defer xmlFile.Close()
 	data, byteErr := ioutil.ReadAll(xmlFile)
 
 	if byteErr != nil {
-		fmt.Errorf("Error while read file: %w", byteErr)
+		log.Print(fmt.Errorf("Error while read file: %w", byteErr))
 	}
 
 	return data
 }
 
 //getting struct from byte slice xml
-func getStructsFromXML(data []byte) []structs.Project {
+func getStructsFromXML(data []byte) []Project {
 
 	//TODO: найти элегантное решение без использования перебора и доп. полей в структурах
 	var lot []Lot

@@ -1,4 +1,4 @@
-package xmlparse
+package servers
 
 import (
 	"context"
