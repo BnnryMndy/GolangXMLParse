@@ -10,14 +10,14 @@ func (h *Handler) InitRoutes() *gin.Engine {
 
 	api := router.Group("/api")
 	{
-		parse := router.Group("/parse")
+		parse := api.Group("/parse")
 		{
 			parse.GET("/", h.getParse)
 			parse.POST("/", h.postParse)
-			save := router.Group("/save")
+			save := parse.Group("/save")
 			{
-				parse.GET("/", h.getParseSave)
-				parse.POST("/", h.postParseSave)
+				save.GET("/", h.getParseSave)
+				save.POST("/", h.postParseSave)
 			}
 		}
 	}
