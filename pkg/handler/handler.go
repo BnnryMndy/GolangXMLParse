@@ -16,8 +16,8 @@ func (h *Handler) InitRoutes() *gin.Engine {
 			parse.POST("/", h.postParse)
 			save := router.Group("/save")
 			{
-				parse.GET("/")
-				parse.POST("/")
+				parse.GET("/", h.getParseSave)
+				parse.POST("/", h.postParseSave)
 			}
 		}
 	}
