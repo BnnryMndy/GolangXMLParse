@@ -121,7 +121,7 @@ func TestGetStructsFromXML(t *testing.T) {
 	for _, test := range testTabale {
 
 		//Act
-		returnedData := getStructsFromXML(test.inputData)
+		returnedData := GetStructsFromXML(test.inputData)
 
 		//Assert
 		assert.Equal(t, test.result, returnedData, "objects not equal")

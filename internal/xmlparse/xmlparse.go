@@ -27,7 +27,7 @@ func getXMLFromPath(path string) []byte {
 }
 
 //getting struct from byte slice xml
-func getStructsFromXML(data []byte) []Project {
+func GetStructsFromXML(data []byte) []Project {
 
 	//TODO: найти элегантное решение без использования перебора и доп. полей в структурах
 	var lot []Lot
