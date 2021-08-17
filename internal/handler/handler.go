@@ -1,4 +1,4 @@
-package handlers
+package handler
 
 import (
 	"github.com/BnnryMndy/GolangXMLParse/internal/service"
@@ -20,12 +20,10 @@ func (h *Handler) InitRoutes() *gin.Engine {
 	{
 		parse := api.Group("/parse")
 		{
-			//parse.GET("/", h.getParse)
 			parse.POST("/", h.parse)
 			save := parse.Group("/save")
 			{
-				//save.GET("/", h.getParseSave)
-				save.POST("/", h.postParseSave)
+				save.POST("/", h.ParseSave)
 			}
 		}
 	}

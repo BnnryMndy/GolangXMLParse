@@ -4,7 +4,7 @@ import (
 	"log"
 
 	servers "github.com/BnnryMndy/GolangXMLParse"
-	handlers "github.com/BnnryMndy/GolangXMLParse/internal/handler"
+	"github.com/BnnryMndy/GolangXMLParse/internal/handler"
 	"github.com/BnnryMndy/GolangXMLParse/internal/repository"
 	"github.com/BnnryMndy/GolangXMLParse/internal/service"
 )
@@ -12,7 +12,7 @@ import (
 func main() {
 	repos := repository.NewRepository()
 	serv := service.NewServices(repos)
-	handlers := handlers.NewHandlers(serv)
+	handlers := handler.NewHandlers(serv)
 
 	srv := new(servers.Server)
 	if err := srv.Run("8080", handlers.InitRoutes()); err != nil {
